@@ -1,0 +1,9 @@
+<package>
+  <description brief="DiaRobot">
+     DiaRobot
+  </description>
+  <author>Pierrick Koch</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/DiaRobot</url>
+</package>
